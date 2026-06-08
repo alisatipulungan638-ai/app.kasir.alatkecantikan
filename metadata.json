@@ -1,0 +1,6 @@
+{
+  "name": "GlowPoint POS",
+  "description": "Aplikasi kasir kecantikan modern dengan manajemen stok, laporan harian, member otomatis, dan scan barcode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
